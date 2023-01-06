@@ -1,6 +1,6 @@
-#BentoML_Micro_service
+# BentoML_Micro_service
 Deploy Micro service through BentoML
-##How to run this bentoml
+## How to run this bentoml
 1. clone project:
    - `git clone https://github.com/muknattapak/BentoML.git`
 2. Go into bento folder for train the model first:
