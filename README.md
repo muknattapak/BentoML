@@ -5,6 +5,7 @@ Deploy Micro service through BentoML
    - `git clone https://github.com/muknattapak/BentoML.git`
 2. Go into bento folder for train the model first:
    - `cd BentoML`
+   - `cd Bento`
    - `pip install -r requirements.txt`
    - `python Train.py`
 
