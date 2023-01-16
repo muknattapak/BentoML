@@ -7,7 +7,7 @@ Deploy Micro service through BentoML
    - `cd BentoML`
    - `cd Bento`
    - `pip install -r requirements.txt`
-   - `python Train.py`
+   - `python train.py`
 
    After trained the model. We can check the model in bento through:
    - `bentoml models list`
